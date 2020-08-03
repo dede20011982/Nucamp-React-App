@@ -16,9 +16,9 @@ class App extends Component {
       return (
           <div className="App">
               <Navbar dark color="primary">
-              <div className="container">
+                <div className="container">
                   <NavbarBrand href="/">NuCamp</NavbarBrand>
-              </div>
+                </div>
               </Navbar>
               <Directory campsites={this.state.campsites} />
           </div>
