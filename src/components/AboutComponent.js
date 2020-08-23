@@ -13,7 +13,7 @@ function RenderPartner({partner}) {
                     {partner.name}
                 </Media>
                     {partner.description}
-            </Media>
+                </Media>
       </React.Fragment>
    );
 }
