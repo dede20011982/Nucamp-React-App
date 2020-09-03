@@ -111,7 +111,7 @@ class Header extends Component {
             <Form onSubmit={this.handleLogin}>
               <FormGroup>
                 <Label htmlFor="username">Username</Label>
-                /<Input
+                <Input
                   type="text"
                   id="username"
                   name="username"
