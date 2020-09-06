@@ -22,23 +22,23 @@ h2 {
 }
 
 .site-footer {
-  background-image: linear-gradient(#CEC8FF, white);
+  background-image: linear-gradient( #474641, #807f7b, #474744);
   padding: 20px 0;
 }
 
 .jumbotron {
   margin: 0;
-  padding: 30px;
-  background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
-  color: white;
+  padding: 1px;
+  background-image: linear-gradient(to right, #474641, #807f7b, #474744);    
 }
 
-.jumbotron h2 {
-  color: #CEC8FF;
+.display-3 {
+  position: relative;
+  left: -150px;
 }
 
 .navbar-dark {
-  background-color: #901CAD;
+  background-color: #0804f1;
 }
 
 .page-enter {
